@@ -29,7 +29,7 @@ abstract class SciFiRobot //abstract class
 public void call()
     {
         //definition
-        System.out.println("Calling me...");
+        System.out.println("Call me...");
     }
 //declaration
 public abstract void cook();
