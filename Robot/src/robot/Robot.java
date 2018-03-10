@@ -48,7 +48,7 @@ class SamiRobot extends KhalekRobot{
 public void dance()
     {
         //definition 
-        System.out.println("it dancing ...");
+        System.out.println("it dancing now ...");
     }
 public void fight()
     {
